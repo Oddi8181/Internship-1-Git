@@ -1,5 +1,5 @@
-Ivan Odrljin ima 1 pobjeda i 0 poraza.
-Vatroslav Mastelić ima 0 pobjeda i 1 poraza.
+Ivan Odrljin ima 3 pobjeda i 0 poraza.
+Vatroslav Mastelić ima 0 pobjeda i 3 poraza.
 
 
 
@@ -8,7 +8,7 @@ X	O	O
 
 
 
-.	X	X
+X	X	X
 
 
 
