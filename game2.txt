@@ -6,7 +6,7 @@ Vatroslav Mastelić ima 0 pobjeda i 1 poraza.
 X       .       X
 
 
-O       .       .
+O       .       O
 
 
 X       .       O
